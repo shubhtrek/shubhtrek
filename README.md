@@ -1,37 +1,32 @@
-Hey there 👋
+# Hey there 👋  
 
-I’m Shubh, a Computer Engineering student interested in Go (Golang) backend development and web development.
+I’m **Shubh**, a **Computer Engineering student** passionate about  
+**Go (Golang) backend development** and **web development**.
 
-I like learning by building real-world projects and contributing to open source. I’m especially curious about how scalable backend services power modern web applications.
+I enjoy building real-world projects, exploring system design, and  
+contributing to **open-source** communities.
 
-🚀 What I’m doing
+---
 
-Building backend projects with Go
+### 🚀 What I do
+- Build backend services with **Go**
+- Explore **web & full-stack** development
+- Learn by shipping projects
+- Contribute to open source
 
-Exploring web & full-stack fundamentals
+---
 
-Contributing to open-source
+### 🛠 Tech & Tools
+**Go • JavaScript • MERN (basic)**  
+**REST APIs • HTML • CSS**  
+**Git • Docker • Kubernetes (learning)**  
+**Linux • AI dev tools**
 
-Learning system design and backend architecture
+---
 
-🛠 Tech & Tools
+### 🌱 Currently learning
+Advanced Go · Databases · System design · DevOps basics
 
-Go, JavaScript
+---
 
-REST APIs, MERN (basic)
-
-HTML, CSS
-
-Git, Docker, Kubernetes (learning)
-
-Linux, AI dev tools
-
-🌱 Currently learning
-
-Advanced Go patterns
-
-Backend–web integration
-
-Databases & performance basics
-
-🤝 Always open to learning, collaborating, and growing together.
+✨ Always learning. Always building.
