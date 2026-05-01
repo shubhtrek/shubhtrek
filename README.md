@@ -17,8 +17,8 @@ contributing to **open-source** communities.
 ---
 
 ### 🛠 Tech & Tools
-**Go • JavaScript • MERN (basic)**  
-**REST APIs • HTML • CSS**  
+**Go • JavaScript • MERN (basic) • Typescript**  
+**REST APIs • HTML • CSS • React**  
 **Git • Docker • Kubernetes (learning)**  
 **Linux • AI dev tools**
 
