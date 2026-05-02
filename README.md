@@ -18,10 +18,11 @@ contributing to **open-source** communities.
 
 ### 🛠 Tech & Tools
 **Go • JavaScript • MERN (basic) • TypeScript • Python(learning)**  
-**REST APIs • HTML • CSS • React.js**  
+**HTML • CSS • React.js**
+**REST APIs • Gin • GORM**
 **Git • Docker • Kubernetes (learning)**
-**MySQL • Postgres**
-**Linux • AI dev tools**
+**MySQL • PostgreSQL**
+**Linux(WSL2) • AI dev tools**
 
 ---
 
