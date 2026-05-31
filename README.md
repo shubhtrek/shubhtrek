@@ -23,7 +23,7 @@ contributing to **open-source** communities.
 - REST APIs • Gin • GORM
 - Git • Docker • Kubernetes (learning)
 - MySQL • PostgreSQL
-- Linux (WSL2) • AI dev tools
+- Linux (WSL2) • AI dev tools • Jira
 
 ---
 
